@@ -6,8 +6,19 @@ An experienced and driven innovator and architect with 20 years experience in a 
 
 ## Experience
 
+
+
+### Managing Partner, C42
+*May 2007 - Present*
+
+Focused on data management projects with large data vendors as well as new database technologies and languages. Research projects on new data pipeline technologies and metadata models.
+
+Projects included working with Kx and First Derivatives teams to build out approaches to integrating non-traditional technologies into a SOA data architecture. 
+
+Also worked to build out Chef based DevOps approaches to servicing one of the largest data vendors in the world.  Demostrating that it was possible to build out infrastructure for testing in Amazon EC2,  this included full provisioning and integration with a continous build pipeline.
+
 ### Managing Partner, Dataset IO 
-*May 2012 - Present*
+*May 2012 - May 2013*
 
 Developing innovative data management products for capital markets and other verticals. Consulting on technical architectures and governance of high volume, low latency and reference data.
 
@@ -16,13 +27,6 @@ Worked with clients to build our real time market solutions,  demonstrated the u
 Used the last few months to focus on data management and have been rolling out a new schema design called Atlas which allows for the definition of technology agnostic data structures which can be shared and reused.  This open approach to data management can be used as a foundation for open governance and the ability inventory your data assets and visualize your data supply chain.
 
 Helped multiple clients with data governance, best practices and technology evaluations.
-
-### Managing Partner, Compound42
-*May 2007 - Present*
-
-Focused on data management projects with large data vendors as well as new database technologies and languages. Research projects on new data pipeline technologies and metadata models.
-
-Projects included working with Kx and First Derivatives teams to build out approaches to integrating non-traditional technologies into a SOA data architecture.  Also worked to build out Chef based DevOps approaches to servicing one of the largest data vendors in the world.  Demostrating that it was possible to build out infrastructure for testing in Amazon EC2,  this included full provisioning and integration with a continous build pipeline.
 
 ### Chief Technology Officer, Netik
 *May 2010 - Feb 2011*
