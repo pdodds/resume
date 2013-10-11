@@ -7,7 +7,6 @@ An experienced and driven innovator and architect with 20 years experience in a 
 ## Experience
 
 
-
 ### Managing Partner, C42
 *May 2007 - Present*
 
@@ -18,7 +17,7 @@ Projects included working with Kx and First Derivatives teams to build out appro
 Also worked to build out Chef based DevOps approaches to servicing one of the largest data vendors in the world.  Demostrating that it was possible to build out infrastructure for testing in Amazon EC2,  this included full provisioning and integration with a continous build pipeline.
 
 ### Managing Partner, Dataset IO 
-*May 2012 - May 2013*
+*Feb 2012 - May 2013*
 
 Developing innovative data management products for capital markets and other verticals. Consulting on technical architectures and governance of high volume, low latency and reference data.
 
@@ -35,16 +34,6 @@ Supported a new management team in the definition of a technology roadmap, revie
 
 Responsible for the development of a new semantic services layer build around Netik's leading data warehouse model.  It provided a new way to both manage the complex query metadata and also expose it in a clean way.  Worked to build out and run a proof of concept on the use of NoSQL solutions for reference data management with a tier-1 financial firm.  This was also based around the concepts of open API's and clean data management infrastructure.
 
-
-### Managing Partner, Compound42
-*June 2008 - May 2009* 
-
-Provided both technical expertise and development experience to companies to help them build structured development environments leveraging Amazon’s cloud technology for both computing and storage. Primarily involved in the Enterprise Data Management space, working with vendors to provide roadmaps to allow them to look to cloud computing offerings in order to allow for the application of both massive process and storage to enable a new style of reference data management application, based on Apache Hadoop technologies (MapReduce) and BigTable style storage.
-
-Worked heavily with a reference data management vendor in a push to migration to an updated application server platform (based on JBoss 5.x), and incorporation of new management features as well as integration of new REST-based architecture to allow open data services to be made available across their enterprise clients.
-
-Also involved in the development of a Amazon Web Service image marketplace (http:// www.thecloudmarket.com) to allow people to quickly identify available machine images and provide a platform for learning about AWS offerings in place from vendors.
-
 ### Chief Techology Officer, Exist Global
 *December 2007 - June 2008*
 
@@ -58,13 +47,8 @@ Leading a small globally-distributed development team and leveraging an off-shor
 
 In the latter stages of the company, focused on building an open repository of build artifacts as a Platform as a Service (PaaS) for developers to leverage. However, a shortfall in funding lead to DevZuz acquisition by Exist Global.
 
-### Consultant, LogicBlaze
-*May 2006- November 2006*
-
-Worked with the LogicBlaze team to build up the open source FUSE platform, an SOA technology stack based on Apache ActiveMQ and Servicemix, including web service integration and JBoss. A great opportunity to work within the open source community and also with customers to build a suite of tooling and integrate FUSE with the Eclipse platform and Apache Maven build technologies.
-
 ### Chief Architect/Co-Founder, Unity Systems
-*September 2003 - March 2006*
+*September 2003 - December 2006*
 
 A founder in a self-started Enterprise Data Management, leveraging the experiences from working with a large number of financial services clients. Responsible for the conception, design and implementation of an SOA data platform that was implemented in large financial services companies in order to allow for the normalization of data coming from multiple disparate systems within the organization. The initial release of the platform was made available to clients within 7 months of the start of the company and it became profitable within the first year. Its flagship product was built on an open source stack (JBoss) and was designed to leverage many of the cutting edge aspects of SOA such as both REST and WS interfaces. Involved in successfully porting the underlying technology to JBI 1.0. The system remains in production environments and is now maintained by a new company. It is responsible for the processing of millions of data points from over 50 market data vendors and continues to prove successful.
 
