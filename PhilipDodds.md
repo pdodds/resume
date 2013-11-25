@@ -2,7 +2,11 @@
 
 ## Summary
 
-An experienced and driven innovator and architect with 20 years experience in a range of businesses, environments and technologies. From a core of enterprise technology in the financial services industry, lead the architecture of large scale enterprise data management systems, composed of a range of existing investments and defined to meet the needs for open service-based architectures. From defining roadmaps to actively leading change through organizations, interacting with sales/marketing and understanding how to look at customer needs to provide solutions that meet requirements and position organizations for future growth. Actively involved in the technology projects, leveraging experience in a range of languages and technologies, have brought together complex visions that both meet the need for rapid implementation with the need for well-defined and structured architecture . Also active in the open source communities and a committer at Apache, have long enjoyed the technical and organizational challenges that can be found in complex environments with critical needs.
+20 years experience in the software industry, defining, architecting and building products for Financial Services and Fortune 500 companies. Wide range of experience in leveraging open source technologies, working with partners, onshore and offshore teams. 
+
+The past few years I have been focused on big data, structured and unstructured sources and data management. With products ranging from high-performance streaming of data, NoSQL and Hadoop/HDFS architecture in environments using public/private clouds.
+
+Recently working with companies focused on leveraging metadata, sampling, analytics and machine learning to start pushing the boundaries of data management. Helping large organizations start to understand how new technology can be deployed and how to work with hybrid data environments and service patterns.
 
 ## Experience
 
@@ -10,11 +14,9 @@ An experienced and driven innovator and architect with 20 years experience in a 
 ### Managing Partner, C42
 *May 2007 - Present*
 
-Focused on data management projects with large data vendors as well as new database technologies and languages. Research projects on new data pipeline technologies and metadata models.
+Working as a boutique consultancy providing deep technical insight into big data technology, data management/governance and data services. We work with clients to help them build out a strategy around how their current data architecture can evolve into a hybrid pattern capable of supporting analytics and real-time, and leveraging concepts such as progressive data quality to allow them to more quickly realize benefit.
 
-Projects included working with Kx and First Derivatives teams to build out approaches to integrating non-traditional technologies into a SOA data architecture. 
-
-Also worked to build out Chef based DevOps approaches to servicing one of the largest data vendors in the world.  Demostrating that it was possible to build out infrastructure for testing in Amazon EC2,  this included full provisioning and integration with a continous build pipeline.
+Beyond just the core data we also advise and consult on how new visualization and user experience technology can be deployed, how the environment is changing with the push towards browser centric and native applications.
 
 ### Managing Partner, Dataset IO 
 *Feb 2012 - May 2013*
