@@ -10,9 +10,13 @@ Recently working with companies focused on leveraging metadata, sampling, analyt
 
 ## Experience
 
+### Chief Technology Officer,  Pendo Systems
+*April 2015 - Present
+
+Driving the technology behind an innovative data discovery platform.  Managing the engineering group,  participating in the product roadmap definition and designing the architecture as well as algorithms that enable financial services to quickly and effectively solve complex data issues.
 
 ### Managing Partner, C42
-*May 2007 - Present*
+*May 2007 - April 2015*
 
 Working as a boutique consultancy providing deep technical insight into big data technology, data management/governance and data services. We work with clients to help them build out a strategy around how their current data architecture can evolve into a hybrid pattern capable of supporting analytics and real-time, and leveraging concepts such as progressive data quality to allow them to more quickly realize benefit.
 
